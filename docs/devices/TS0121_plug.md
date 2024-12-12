@@ -43,6 +43,8 @@ Command: 0
 Payload: (don't change this)
 
 Next time the plug gets polled, Sum of consumed energy will start from zero again.
+
+You may need to remove and add again device to zigbee network.
 <!-- Notes END: Do not edit below this line -->
 
 
